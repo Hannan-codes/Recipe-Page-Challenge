@@ -1,0 +1,61 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-family: "Young Serif", serif;
+
+}
+
+.main-page{
+    background-color: white;
+    width:600px;
+    padding: 40px;
+    margin: 60px auto;
+    border-radius: 25px;
+}
+
+.intro{
+    font-size: 15px;
+}
+
+h1{
+    color: hsl(24, 5%, 18%);
+    font-size: 40px;
+    font-weight: 400;
+}
+
+h2:not(.Preparation){
+    color: hsl(14, 45%, 36%);
+    font-size: 28px;
+}
+
+p, li, th{
+    color:hsl(30, 10%, 34%);
+    font-family: outfit;
+}
+
+img{
+    max-width: 600px;
+}
+
+.prep{
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.Preparation{
+    color: hsl(332, 51%, 32%);
+    font-size: 17px;
+}
+
+li{
+    line-height: 30px;
+}
+
+td{
+    padding-left: 265px;
+    color:hsl(14, 45%, 36%);
+}
+
+th{
+    font-weight: 400;
+}
