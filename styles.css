@@ -34,6 +34,7 @@ p, li, th{
 
 img{
     max-width: 600px;
+    border-radius: 25px;
 }
 
 .prep{
