@@ -1,6 +1,10 @@
 body{
     background-color: hsl(30, 54%, 90%);
     font-family: "Young Serif", serif;
+    display:flex;
+    width:100vw;
+    align-items:center;
+    justify-content:center;
 
 }
 
